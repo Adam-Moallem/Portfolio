@@ -16,7 +16,7 @@ export const profile = {
   email: "Adammoallem2002@gmail.com",
   phone: "+96170864723",
   github: "https://github.com/Adam-Moallem",
-  portfolio: "https://github.com/Adam-Moallem",
+  portfolio: "https://portfolio-eta-jet-xjkp9hk0w7.vercel.app/",
   cvPath: "/Adam-Moallem-CV.pdf",
   photoPath: "/profile.png",
 };
